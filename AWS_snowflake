@@ -1,0 +1,3 @@
+CREATE STAGE "CITIBIKE"."PUBLIC".citibike_trips URL = 's3://snowflake-workshop-lab/citibike-trips';
+
+https://vba27292.snowflakecomputing.com/console#/warehouses
